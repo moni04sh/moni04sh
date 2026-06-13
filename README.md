@@ -143,40 +143,6 @@ Promoted from Web Development Intern to Full Stack Developer Intern in January 2
 ---
 
 <div align="center">
-  <h2 style="margin:0;color:#7C4DFF">GitHub Analytics</h2>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moni04sh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moni04sh&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moni04sh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<div align="center">
-  <h2 style="margin:0;color:#7C4DFF">GitHub Trophies</h2>
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moni04sh&theme=radical&no-frame=true&column=7" alt="trophies" />
-</p>
-
----
-
-<div align="center">
-  <h2 style="margin:0;color:#7C4DFF">Contribution Activity</h2>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moni04sh&theme=react-dark&hide_border=true" alt="activity graph" />
-</p>
-
----
-
-<div align="center">
   <h2 style="margin:0;color:#7C4DFF">Contribution Snake</h2>
 </div>
 
